@@ -288,7 +288,3 @@ Create a free cluster, whitelist your deployment IP (or `0.0.0.0/0` for public),
 - Integration with GitHub Issues / Linear / Jira
 
 ---
-
-## 📜 License
-
-MIT © Nithin Reddy
